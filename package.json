@@ -1,0 +1,7 @@
+{
+  "name": "whiskey-student-strategy",
+  "private": true,
+  "type": "module",
+  "scripts": { "build": "node build.mjs" },
+  "dependencies": { "marked": "^15.0.0" }
+}

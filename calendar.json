@@ -1,0 +1,1215 @@
+{
+ "weeks": [
+  {
+   "week": 1,
+   "theme": "Re-introduce the account",
+   "cycle": "A",
+   "items": [
+    {
+     "title": "Week 1 batch shoot",
+     "pillar": "",
+     "series": "",
+     "platform": "Shoot",
+     "shootDate": "2026-11-08",
+     "postDate": "",
+     "time": "",
+     "notes": "Mon + Fri Reels, Thursday YouTube review, Saturday journal stills, thumbnail (2 options). Film the new pinned intro Reel."
+    },
+    {
+     "title": "How to nose whiskey (you’re probably doing it wrong)",
+     "pillar": "Education & How-To",
+     "series": "Whiskey in 60",
+     "platform": "Instagram Reel",
+     "shootDate": "",
+     "postDate": "2026-11-09",
+     "time": "12:00",
+     "notes": "Whiskey in 60"
+    },
+    {
+     "title": "Short: the new intro Reel",
+     "pillar": "Learning Journey POV",
+     "series": "",
+     "platform": "YouTube Short",
+     "shootDate": "",
+     "postDate": "2026-11-10",
+     "time": "12:00",
+     "notes": "Repost without watermark"
+    },
+    {
+     "title": "Re-intro: “I’m a bartender learning whiskey in public. Come with me.”",
+     "pillar": "Learning Journey POV",
+     "series": "",
+     "platform": "Instagram Reel",
+     "shootDate": "",
+     "postDate": "2026-11-11",
+     "time": "18:30",
+     "notes": "Pin to profile. Trial Reel first."
+    },
+    {
+     "title": "Buffalo Trace Review: Is the Hype Real? A Bartender’s Honest Take",
+     "pillar": "Tasting & Reviews",
+     "series": "",
+     "platform": "YouTube",
+     "shootDate": "",
+     "postDate": "2026-11-12",
+     "time": "15:00",
+     "notes": "Long-form 8–12 min"
+    },
+    {
+     "title": "Trailer: the Buffalo Trace verdict in 45 seconds",
+     "pillar": "Tasting & Reviews",
+     "series": "",
+     "platform": "Instagram Reel",
+     "shootDate": "",
+     "postDate": "2026-11-12",
+     "time": "19:00",
+     "notes": "Story link to YouTube"
+    },
+    {
+     "title": "Buy / Bar Pour / Pass: Evan Williams Bottled-in-Bond",
+     "pillar": "Tasting & Reviews",
+     "series": "Buy / Bar Pour / Pass",
+     "platform": "Instagram Reel + Short",
+     "shootDate": "",
+     "postDate": "2026-11-13",
+     "time": "17:00",
+     "notes": "Series launch"
+    },
+    {
+     "title": "My tasting journal, page 1",
+     "pillar": "Learning Journey POV",
+     "series": "Journal Flip",
+     "platform": "Instagram Carousel",
+     "shootDate": "",
+     "postDate": "2026-11-14",
+     "time": "10:00",
+     "notes": "Journal Flip"
+    },
+    {
+     "title": "Short: clip from Thursday’s video; poll “what should I taste next?”",
+     "pillar": "Education & How-To",
+     "series": "",
+     "platform": "YouTube Short",
+     "shootDate": "",
+     "postDate": "2026-11-15",
+     "time": "11:00",
+     "notes": ""
+    }
+   ]
+  },
+  {
+   "week": 2,
+   "theme": "American whiskey rules",
+   "cycle": "B",
+   "items": [
+    {
+     "title": "Week 2 batch shoot",
+     "pillar": "",
+     "series": "",
+     "platform": "Shoot",
+     "shootDate": "2026-11-15",
+     "postDate": "",
+     "time": "",
+     "notes": "Mon history Reel (photos + voiceover), Fri blind tasting, Thursday explainer, label carousel graphics."
+    },
+    {
+     "title": "The Whiskey Rebellion: nearly 13,000 troops over a whiskey tax",
+     "pillar": "History & Heritage",
+     "series": "Lost Bottles",
+     "platform": "Instagram Reel",
+     "shootDate": "",
+     "postDate": "2026-11-16",
+     "time": "12:00",
+     "notes": "Lost Bottles"
+    },
+    {
+     "title": "Short: How to nose whiskey",
+     "pillar": "Education & How-To",
+     "series": "",
+     "platform": "YouTube Short",
+     "shootDate": "",
+     "postDate": "2026-11-17",
+     "time": "12:00",
+     "notes": ""
+    },
+    {
+     "title": "3 things I believed about whiskey that were wrong",
+     "pillar": "Learning Journey POV",
+     "series": "What I Got Wrong",
+     "platform": "Instagram Reel",
+     "shootDate": "",
+     "postDate": "2026-11-18",
+     "time": "18:30",
+     "notes": "What I Got Wrong"
+    },
+    {
+     "title": "Bourbon vs Rye vs Tennessee Whiskey: The Rules Explained",
+     "pillar": "Education & How-To",
+     "series": "",
+     "platform": "YouTube",
+     "shootDate": "",
+     "postDate": "2026-11-19",
+     "time": "15:00",
+     "notes": "Evergreen search video"
+    },
+    {
+     "title": "Trailer: three American whiskeys, three rulebooks",
+     "pillar": "Education & How-To",
+     "series": "",
+     "platform": "Instagram Reel",
+     "shootDate": "",
+     "postDate": "2026-11-19",
+     "time": "19:00",
+     "notes": ""
+    },
+    {
+     "title": "Blind Friday: $25 vs $60 bourbon. Can I tell?",
+     "pillar": "Head-to-Head",
+     "series": "Blind Friday",
+     "platform": "Instagram Reel + Short",
+     "shootDate": "",
+     "postDate": "2026-11-20",
+     "time": "17:00",
+     "notes": "Reveal at the end"
+    },
+    {
+     "title": "Label decoder: what every word on a bourbon label means",
+     "pillar": "Education & How-To",
+     "series": "",
+     "platform": "Instagram Carousel",
+     "shootDate": "",
+     "postDate": "2026-11-21",
+     "time": "10:00",
+     "notes": "Save bait"
+    },
+    {
+     "title": "Short: clip from Thursday’s video",
+     "pillar": "Education & How-To",
+     "series": "",
+     "platform": "YouTube Short",
+     "shootDate": "",
+     "postDate": "2026-11-22",
+     "time": "11:00",
+     "notes": ""
+    }
+   ]
+  },
+  {
+   "week": 3,
+   "theme": "Thanksgiving week",
+   "cycle": "C",
+   "items": [
+    {
+     "title": "Week 3 batch shoot",
+     "pillar": "",
+     "series": "",
+     "platform": "Shoot",
+     "shootDate": "2026-11-22",
+     "postDate": "",
+     "time": "",
+     "notes": "Shoot early (Sun Nov 22 is also the rye-trail day). Batch Mon/Fri Reels and the blind long-form on Sat Nov 21 if needed."
+    },
+    {
+     "title": "What to pour at Thanksgiving, by who’s at the table",
+     "pillar": "Education & How-To",
+     "series": "",
+     "platform": "Instagram Reel",
+     "shootDate": "",
+     "postDate": "2026-11-23",
+     "time": "12:00",
+     "notes": "Holiday tie-in"
+    },
+    {
+     "title": "Wheated vs High-Rye Bourbon, Blind: Can a Bartender Tell?",
+     "pillar": "Head-to-Head",
+     "series": "",
+     "platform": "YouTube",
+     "shootDate": "",
+     "postDate": "2026-11-24",
+     "time": "15:00",
+     "notes": "Moved to Tue: Thanksgiving Thu"
+    },
+    {
+     "title": "Trailer: soft vs spicy bourbon, blind",
+     "pillar": "Head-to-Head",
+     "series": "",
+     "platform": "Instagram Reel",
+     "shootDate": "",
+     "postDate": "2026-11-24",
+     "time": "19:00",
+     "notes": ""
+    },
+    {
+     "title": "Behind the Bar: the bourbon question guests ask every holiday",
+     "pillar": "Learning Journey POV",
+     "series": "Behind the Bar",
+     "platform": "Instagram Reel",
+     "shootDate": "",
+     "postDate": "2026-11-25",
+     "time": "18:30",
+     "notes": "Shot after close"
+    },
+    {
+     "title": "Black Friday Under-$40 Shelf Hunt: 3 bottles, 1 winner",
+     "pillar": "Tasting & Reviews",
+     "series": "",
+     "platform": "Instagram Reel + Short",
+     "shootDate": "",
+     "postDate": "2026-11-27",
+     "time": "17:00",
+     "notes": ""
+    },
+    {
+     "title": "Gift guide: whiskey at $30, $60 and $100",
+     "pillar": "Tasting & Reviews",
+     "series": "",
+     "platform": "Instagram Carousel",
+     "shootDate": "",
+     "postDate": "2026-11-28",
+     "time": "10:00",
+     "notes": "Post before Dec 1"
+    },
+    {
+     "title": "Short: the blind reveal moment",
+     "pillar": "Head-to-Head",
+     "series": "",
+     "platform": "YouTube Short",
+     "shootDate": "",
+     "postDate": "2026-11-29",
+     "time": "11:00",
+     "notes": ""
+    }
+   ]
+  },
+  {
+   "week": 4,
+   "theme": "Maryland rye trail",
+   "cycle": "D",
+   "items": [
+    {
+     "title": "Week 4 batch shoot",
+     "pillar": "",
+     "series": "",
+     "platform": "Shoot",
+     "shootDate": "2026-11-29",
+     "postDate": "",
+     "time": "",
+     "notes": "Rye-trail footage is already shot (Sun Nov 22). Edit the vlog + 3 cutdowns; review the gift-shop bottle on Sunday."
+    },
+    {
+     "title": "Maryland rye: the whiskey style that vanished",
+     "pillar": "History & Heritage",
+     "series": "Ma-RYE-land",
+     "platform": "Instagram Reel",
+     "shootDate": "",
+     "postDate": "2026-11-30",
+     "time": "12:00",
+     "notes": "Ma-RYE-land ep. 1"
+    },
+    {
+     "title": "Short: Rickhouse Sounds (20s ambient)",
+     "pillar": "Distillery Visits",
+     "series": "",
+     "platform": "YouTube Short",
+     "shootDate": "",
+     "postDate": "2026-12-01",
+     "time": "12:00",
+     "notes": ""
+    },
+    {
+     "title": "My first distillery trip as a student: what surprised me",
+     "pillar": "Learning Journey POV",
+     "series": "",
+     "platform": "Instagram Reel",
+     "shootDate": "",
+     "postDate": "2026-12-02",
+     "time": "18:30",
+     "notes": ""
+    },
+    {
+     "title": "Maryland Rye Trail: 3 Frederick Distilleries in One Day",
+     "pillar": "Distillery Visits",
+     "series": "Distillery Diaries",
+     "platform": "YouTube",
+     "shootDate": "",
+     "postDate": "2026-12-03",
+     "time": "15:00",
+     "notes": "Distillery Diaries"
+    },
+    {
+     "title": "Trailer: grain to glass in 60 seconds",
+     "pillar": "Distillery Visits",
+     "series": "",
+     "platform": "Instagram Reel",
+     "shootDate": "",
+     "postDate": "2026-12-03",
+     "time": "19:00",
+     "notes": "Collab post with a distillery"
+    },
+    {
+     "title": "Gift-shop exclusive vs the standard bottle, blind",
+     "pillar": "Head-to-Head",
+     "series": "",
+     "platform": "Instagram Reel + Short",
+     "shootDate": "",
+     "postDate": "2026-12-04",
+     "time": "17:00",
+     "notes": ""
+    },
+    {
+     "title": "A distillery in 10 frames",
+     "pillar": "Distillery Visits",
+     "series": "",
+     "platform": "Instagram Carousel",
+     "shootDate": "",
+     "postDate": "2026-12-05",
+     "time": "10:00",
+     "notes": "Your photography"
+    },
+    {
+     "title": "Short: “I asked the distiller one question”",
+     "pillar": "Distillery Visits",
+     "series": "",
+     "platform": "YouTube Short",
+     "shootDate": "",
+     "postDate": "2026-12-06",
+     "time": "11:00",
+     "notes": ""
+    }
+   ]
+  },
+  {
+   "week": 5,
+   "theme": "Gift season",
+   "cycle": "A",
+   "items": [
+    {
+     "title": "Week 5 batch shoot",
+     "pillar": "",
+     "series": "",
+     "platform": "Shoot",
+     "shootDate": "2026-12-06",
+     "postDate": "",
+     "time": "",
+     "notes": "Gift-guide long-form (5 bottles), Fri tasting, Mon water demo (macro), November Top 3 stills."
+    },
+    {
+     "title": "Watch what 3 drops of water do to a cask-strength pour",
+     "pillar": "Education & How-To",
+     "series": "Drop-by-Drop",
+     "platform": "Instagram Reel",
+     "shootDate": "",
+     "postDate": "2026-12-07",
+     "time": "12:00",
+     "notes": "Drop-by-Drop"
+    },
+    {
+     "title": "Short: Maryland rye that vanished",
+     "pillar": "History & Heritage",
+     "series": "",
+     "platform": "YouTube Short",
+     "shootDate": "",
+     "postDate": "2026-12-08",
+     "time": "12:00",
+     "notes": ""
+    },
+    {
+     "title": "Study Hall: the one lesson that clicked this week",
+     "pillar": "Learning Journey POV",
+     "series": "Study Hall",
+     "platform": "Instagram Reel",
+     "shootDate": "",
+     "postDate": "2026-12-09",
+     "time": "18:30",
+     "notes": ""
+    },
+    {
+     "title": "5 Whiskeys a Bartender Would Actually Gift (Every Budget)",
+     "pillar": "Tasting & Reviews",
+     "series": "",
+     "platform": "YouTube",
+     "shootDate": "",
+     "postDate": "2026-12-10",
+     "time": "15:00",
+     "notes": "Gift-search timing"
+    },
+    {
+     "title": "Trailer: the $30 gift that beats the $60 one",
+     "pillar": "Tasting & Reviews",
+     "series": "",
+     "platform": "Instagram Reel",
+     "shootDate": "",
+     "postDate": "2026-12-10",
+     "time": "19:00",
+     "notes": ""
+    },
+    {
+     "title": "Buy / Bar Pour / Pass: a popular gift bottle",
+     "pillar": "Tasting & Reviews",
+     "series": "Buy / Bar Pour / Pass",
+     "platform": "Instagram Reel + Short",
+     "shootDate": "",
+     "postDate": "2026-12-11",
+     "time": "17:00",
+     "notes": ""
+    },
+    {
+     "title": "November Top 3",
+     "pillar": "Tasting & Reviews",
+     "series": "",
+     "platform": "Instagram Carousel",
+     "shootDate": "",
+     "postDate": "2026-12-12",
+     "time": "10:00",
+     "notes": "Pin if it performs"
+    },
+    {
+     "title": "Short: clip from the gift guide",
+     "pillar": "Tasting & Reviews",
+     "series": "",
+     "platform": "YouTube Short",
+     "shootDate": "",
+     "postDate": "2026-12-13",
+     "time": "11:00",
+     "notes": ""
+    }
+   ]
+  },
+  {
+   "week": 6,
+   "theme": "Scotland preview",
+   "cycle": "B",
+   "items": [
+    {
+     "title": "Week 6 batch shoot",
+     "pillar": "",
+     "series": "",
+     "platform": "Shoot",
+     "shootDate": "2026-12-13",
+     "postDate": "",
+     "time": "",
+     "notes": "Scotch regions explainer (map graphic + 2–3 drams), blind Scotch vs Japanese, aroma-kit test, Prohibition ephemera stills."
+    },
+    {
+     "title": "During Prohibition, doctors could prescribe whiskey",
+     "pillar": "History & Heritage",
+     "series": "Lost Bottles",
+     "platform": "Instagram Reel",
+     "shootDate": "",
+     "postDate": "2026-12-14",
+     "time": "12:00",
+     "notes": "Lost Bottles"
+    },
+    {
+     "title": "Short: 3 drops of water",
+     "pillar": "Education & How-To",
+     "series": "",
+     "platform": "YouTube Short",
+     "shootDate": "",
+     "postDate": "2026-12-15",
+     "time": "12:00",
+     "notes": ""
+    },
+    {
+     "title": "Aroma kit blind test #1: can I name these jars?",
+     "pillar": "Learning Journey POV",
+     "series": "",
+     "platform": "Instagram Reel",
+     "shootDate": "",
+     "postDate": "2026-12-16",
+     "time": "18:30",
+     "notes": "Score on screen"
+    },
+    {
+     "title": "Scotch Whisky Regions Explained in 10 Minutes",
+     "pillar": "Education & How-To",
+     "series": "",
+     "platform": "YouTube",
+     "shootDate": "",
+     "postDate": "2026-12-17",
+     "time": "15:00",
+     "notes": "Evergreen search video"
+    },
+    {
+     "title": "Trailer: Scotland’s whisky regions in one map",
+     "pillar": "Education & How-To",
+     "series": "",
+     "platform": "Instagram Reel",
+     "shootDate": "",
+     "postDate": "2026-12-17",
+     "time": "19:00",
+     "notes": ""
+    },
+    {
+     "title": "Blind Friday: Scotch vs Japanese at the same price",
+     "pillar": "Head-to-Head",
+     "series": "Blind Friday",
+     "platform": "Instagram Reel + Short",
+     "shootDate": "",
+     "postDate": "2026-12-18",
+     "time": "17:00",
+     "notes": ""
+    },
+    {
+     "title": "Scotch regions map (save this)",
+     "pillar": "Education & How-To",
+     "series": "",
+     "platform": "Instagram Carousel",
+     "shootDate": "",
+     "postDate": "2026-12-19",
+     "time": "10:00",
+     "notes": ""
+    },
+    {
+     "title": "Short: clip from the regions video",
+     "pillar": "Education & How-To",
+     "series": "",
+     "platform": "YouTube Short",
+     "shootDate": "",
+     "postDate": "2026-12-20",
+     "time": "11:00",
+     "notes": ""
+    }
+   ]
+  },
+  {
+   "week": 7,
+   "theme": "Christmas week (light)",
+   "cycle": "C",
+   "items": [
+    {
+     "title": "Week 7 batch shoot",
+     "pillar": "",
+     "series": "",
+     "platform": "Shoot",
+     "shootDate": "2026-12-20",
+     "postDate": "",
+     "time": "",
+     "notes": "Shoot the bonded blind tasting and Mon glassware test on Sun Dec 20. Nothing to film Christmas week."
+    },
+    {
+     "title": "Same whiskey, 3 glasses, 3 different experiences",
+     "pillar": "Education & How-To",
+     "series": "",
+     "platform": "Instagram Reel",
+     "shootDate": "",
+     "postDate": "2026-12-21",
+     "time": "12:00",
+     "notes": "Glassware test"
+    },
+    {
+     "title": "Bonded Battle: 4 Bottled-in-Bond Bourbons, Blind",
+     "pillar": "Head-to-Head",
+     "series": "",
+     "platform": "YouTube",
+     "shootDate": "",
+     "postDate": "2026-12-22",
+     "time": "15:00",
+     "notes": "Moved to Tue: Christmas Eve Thu"
+    },
+    {
+     "title": "Trailer: four bonded bourbons, one winner",
+     "pillar": "Head-to-Head",
+     "series": "",
+     "platform": "Instagram Reel",
+     "shootDate": "",
+     "postDate": "2026-12-22",
+     "time": "19:00",
+     "notes": ""
+    },
+    {
+     "title": "Behind the Bar: what the holiday rush taught me about whiskey",
+     "pillar": "Learning Journey POV",
+     "series": "Behind the Bar",
+     "platform": "Instagram Reel",
+     "shootDate": "",
+     "postDate": "2026-12-23",
+     "time": "18:30",
+     "notes": ""
+    },
+    {
+     "title": "My first 3 months of whiskey, in photos",
+     "pillar": "Learning Journey POV",
+     "series": "",
+     "platform": "Instagram Carousel",
+     "shootDate": "",
+     "postDate": "2026-12-26",
+     "time": "10:00",
+     "notes": ""
+    },
+    {
+     "title": "Short: bonded blind reveal",
+     "pillar": "Head-to-Head",
+     "series": "",
+     "platform": "YouTube Short",
+     "shootDate": "",
+     "postDate": "2026-12-27",
+     "time": "11:00",
+     "notes": ""
+    }
+   ]
+  },
+  {
+   "week": 8,
+   "theme": "Year in review",
+   "cycle": "D",
+   "items": [
+    {
+     "title": "Week 8 batch shoot",
+     "pillar": "",
+     "series": "",
+     "platform": "Shoot",
+     "shootDate": "2026-12-27",
+     "postDate": "",
+     "time": "",
+     "notes": "Year-end long-form (top 10 + mistakes) on Sun Dec 27; 2027-goals Reel; Top 10 carousel stills."
+    },
+    {
+     "title": "How to taste at a New Year’s party without overdoing it",
+     "pillar": "Education & How-To",
+     "series": "",
+     "platform": "Instagram Reel",
+     "shootDate": "",
+     "postDate": "2026-12-28",
+     "time": "12:00",
+     "notes": "Responsible-tasting angle"
+    },
+    {
+     "title": "My First 3 Months Learning Whiskey: Top 10 + What I Got Wrong",
+     "pillar": "Learning Journey POV",
+     "series": "",
+     "platform": "YouTube",
+     "shootDate": "",
+     "postDate": "2026-12-29",
+     "time": "15:00",
+     "notes": "Moved to Tue: NYE Thu"
+    },
+    {
+     "title": "Trailer: my top 3 of 2026",
+     "pillar": "Learning Journey POV",
+     "series": "",
+     "platform": "Instagram Reel",
+     "shootDate": "",
+     "postDate": "2026-12-29",
+     "time": "19:00",
+     "notes": ""
+    },
+    {
+     "title": "2027 goals: WSET, 100 whiskeys, 3 distilleries",
+     "pillar": "Learning Journey POV",
+     "series": "",
+     "platform": "Instagram Reel",
+     "shootDate": "",
+     "postDate": "2026-12-30",
+     "time": "18:30",
+     "notes": "Public commitment"
+    },
+    {
+     "title": "Top 10 whiskeys I tasted in 2026",
+     "pillar": "Tasting & Reviews",
+     "series": "",
+     "platform": "Instagram Carousel",
+     "shootDate": "",
+     "postDate": "2027-01-02",
+     "time": "10:00",
+     "notes": "Pin to profile"
+    },
+    {
+     "title": "Short: biggest mistake of year one",
+     "pillar": "Learning Journey POV",
+     "series": "",
+     "platform": "YouTube Short",
+     "shootDate": "",
+     "postDate": "2027-01-03",
+     "time": "11:00",
+     "notes": ""
+    }
+   ]
+  },
+  {
+   "week": 9,
+   "theme": "Scotch month begins",
+   "cycle": "A",
+   "items": [
+    {
+     "title": "Week 9 batch shoot",
+     "pillar": "",
+     "series": "",
+     "platform": "Shoot",
+     "shootDate": "2027-01-03",
+     "postDate": "",
+     "time": "",
+     "notes": "First peated Scotch (do not rehearse, do not re-take), Dry January Reel, Highland malt verdict, Scotch label stills."
+    },
+    {
+     "title": "Dry January? How to taste less but better",
+     "pillar": "Education & How-To",
+     "series": "",
+     "platform": "Instagram Reel",
+     "shootDate": "",
+     "postDate": "2027-01-04",
+     "time": "12:00",
+     "notes": ""
+    },
+    {
+     "title": "Short: 2027 goals",
+     "pillar": "Learning Journey POV",
+     "series": "",
+     "platform": "YouTube Short",
+     "shootDate": "",
+     "postDate": "2027-01-05",
+     "time": "12:00",
+     "notes": ""
+    },
+    {
+     "title": "Study Hall: Scotch month starts",
+     "pillar": "Learning Journey POV",
+     "series": "Study Hall",
+     "platform": "Instagram Reel",
+     "shootDate": "",
+     "postDate": "2027-01-06",
+     "time": "18:30",
+     "notes": ""
+    },
+    {
+     "title": "Laphroaig 10 Review: My First Peated Scotch (Unscripted)",
+     "pillar": "Tasting & Reviews",
+     "series": "First Peat",
+     "platform": "YouTube",
+     "shootDate": "",
+     "postDate": "2027-01-07",
+     "time": "15:00",
+     "notes": "First Peat"
+    },
+    {
+     "title": "Trailer: my first peat, real reaction",
+     "pillar": "Tasting & Reviews",
+     "series": "",
+     "platform": "Instagram Reel",
+     "shootDate": "",
+     "postDate": "2027-01-07",
+     "time": "19:00",
+     "notes": "Best hook of the quarter"
+    },
+    {
+     "title": "Buy / Bar Pour / Pass: an entry Highland single malt",
+     "pillar": "Tasting & Reviews",
+     "series": "Buy / Bar Pour / Pass",
+     "platform": "Instagram Reel + Short",
+     "shootDate": "",
+     "postDate": "2027-01-08",
+     "time": "17:00",
+     "notes": ""
+    },
+    {
+     "title": "Scotch label decoder: single malt vs blended",
+     "pillar": "Education & How-To",
+     "series": "",
+     "platform": "Instagram Carousel",
+     "shootDate": "",
+     "postDate": "2027-01-09",
+     "time": "10:00",
+     "notes": ""
+    },
+    {
+     "title": "Short: the peat reaction",
+     "pillar": "Tasting & Reviews",
+     "series": "",
+     "platform": "YouTube Short",
+     "shootDate": "",
+     "postDate": "2027-01-10",
+     "time": "11:00",
+     "notes": ""
+    }
+   ]
+  },
+  {
+   "week": 10,
+   "theme": "Peat and blends",
+   "cycle": "B",
+   "items": [
+    {
+     "title": "Week 10 batch shoot",
+     "pillar": "",
+     "series": "",
+     "platform": "Shoot",
+     "shootDate": "2027-01-10",
+     "postDate": "",
+     "time": "",
+     "notes": "Single malt vs blended explainer, peat-ladder blind (3–4 drams), Pattison crash history (archival stills + VO)."
+    },
+    {
+     "title": "In 1898, one company’s collapse almost killed Scotch",
+     "pillar": "History & Heritage",
+     "series": "",
+     "platform": "Instagram Reel",
+     "shootDate": "",
+     "postDate": "2027-01-11",
+     "time": "12:00",
+     "notes": "The Pattison crash"
+    },
+    {
+     "title": "Short: Dry January tasting tip",
+     "pillar": "Education & How-To",
+     "series": "",
+     "platform": "YouTube Short",
+     "shootDate": "",
+     "postDate": "2027-01-12",
+     "time": "12:00",
+     "notes": ""
+    },
+    {
+     "title": "What I got wrong about peat",
+     "pillar": "Learning Journey POV",
+     "series": "",
+     "platform": "Instagram Reel",
+     "shootDate": "",
+     "postDate": "2027-01-13",
+     "time": "18:30",
+     "notes": ""
+    },
+    {
+     "title": "Single Malt vs Blended Scotch: What’s the Difference?",
+     "pillar": "Education & How-To",
+     "series": "",
+     "platform": "YouTube",
+     "shootDate": "",
+     "postDate": "2027-01-14",
+     "time": "15:00",
+     "notes": "Evergreen search video"
+    },
+    {
+     "title": "Trailer: single malt doesn’t mean what you think",
+     "pillar": "Education & How-To",
+     "series": "",
+     "platform": "Instagram Reel",
+     "shootDate": "",
+     "postDate": "2027-01-14",
+     "time": "19:00",
+     "notes": ""
+    },
+    {
+     "title": "Peat ladder: from lightly smoky to campfire, ranked",
+     "pillar": "Head-to-Head",
+     "series": "",
+     "platform": "Instagram Reel + Short",
+     "shootDate": "",
+     "postDate": "2027-01-15",
+     "time": "17:00",
+     "notes": ""
+    },
+    {
+     "title": "The peat ladder (graphic)",
+     "pillar": "Head-to-Head",
+     "series": "",
+     "platform": "Instagram Carousel",
+     "shootDate": "",
+     "postDate": "2027-01-16",
+     "time": "10:00",
+     "notes": ""
+    },
+    {
+     "title": "Short: clip from the malt vs blend video",
+     "pillar": "Education & How-To",
+     "series": "",
+     "platform": "YouTube Short",
+     "shootDate": "",
+     "postDate": "2027-01-17",
+     "time": "11:00",
+     "notes": ""
+    }
+   ]
+  },
+  {
+   "week": 11,
+   "theme": "Price vs quality",
+   "cycle": "C",
+   "items": [
+    {
+     "title": "Week 11 batch shoot",
+     "pillar": "",
+     "series": "",
+     "platform": "Shoot",
+     "shootDate": "2027-01-17",
+     "postDate": "",
+     "time": "",
+     "notes": "Shoot Sun Jan 17 is the Catoctin Creek trip. Batch the $30 vs $90 blind and the stills on Sat Jan 16."
+    },
+    {
+     "title": "Pot still vs column still: two machines, two whiskeys",
+     "pillar": "Education & How-To",
+     "series": "",
+     "platform": "Instagram Reel",
+     "shootDate": "",
+     "postDate": "2027-01-18",
+     "time": "12:00",
+     "notes": ""
+    },
+    {
+     "title": "Short: the Pattison crash",
+     "pillar": "History & Heritage",
+     "series": "",
+     "platform": "YouTube Short",
+     "shootDate": "",
+     "postDate": "2027-01-19",
+     "time": "12:00",
+     "notes": ""
+    },
+    {
+     "title": "Aroma kit blind test #2: progress check",
+     "pillar": "Learning Journey POV",
+     "series": "",
+     "platform": "Instagram Reel",
+     "shootDate": "",
+     "postDate": "2027-01-20",
+     "time": "18:30",
+     "notes": "Compare to test #1"
+    },
+    {
+     "title": "$30 Scotch vs $90 Scotch, Blind: Is Price Worth It?",
+     "pillar": "Head-to-Head",
+     "series": "",
+     "platform": "YouTube",
+     "shootDate": "",
+     "postDate": "2027-01-21",
+     "time": "15:00",
+     "notes": ""
+    },
+    {
+     "title": "Trailer: I couldn’t see the price tag",
+     "pillar": "Head-to-Head",
+     "series": "",
+     "platform": "Instagram Reel",
+     "shootDate": "",
+     "postDate": "2027-01-21",
+     "time": "19:00",
+     "notes": ""
+    },
+    {
+     "title": "Buy / Bar Pour / Pass: a blended Scotch for highballs",
+     "pillar": "Tasting & Reviews",
+     "series": "Buy / Bar Pour / Pass",
+     "platform": "Instagram Reel + Short",
+     "shootDate": "",
+     "postDate": "2027-01-22",
+     "time": "17:00",
+     "notes": "Bartender angle"
+    },
+    {
+     "title": "December–January Top 3",
+     "pillar": "Tasting & Reviews",
+     "series": "",
+     "platform": "Instagram Carousel",
+     "shootDate": "",
+     "postDate": "2027-01-23",
+     "time": "10:00",
+     "notes": ""
+    },
+    {
+     "title": "Short: the price reveal",
+     "pillar": "Head-to-Head",
+     "series": "",
+     "platform": "YouTube Short",
+     "shootDate": "",
+     "postDate": "2027-01-24",
+     "time": "11:00",
+     "notes": ""
+    }
+   ]
+  },
+  {
+   "week": 12,
+   "theme": "Burns Night + Virginia rye",
+   "cycle": "D",
+   "items": [
+    {
+     "title": "Week 12 batch shoot",
+     "pillar": "",
+     "series": "",
+     "platform": "Shoot",
+     "shootDate": "2027-01-24",
+     "postDate": "",
+     "time": "",
+     "notes": "Catoctin Creek footage (shot Jan 17). Edit vlog + cutdowns; record the 12-week Then vs Now."
+    },
+    {
+     "title": "Burns Night: why Scotland toasts a poet with whisky (Jan 25)",
+     "pillar": "History & Heritage",
+     "series": "",
+     "platform": "Instagram Reel",
+     "shootDate": "",
+     "postDate": "2027-01-25",
+     "time": "12:00",
+     "notes": "Post on the day"
+    },
+    {
+     "title": "Short: one question for the distiller",
+     "pillar": "Distillery Visits",
+     "series": "",
+     "platform": "YouTube Short",
+     "shootDate": "",
+     "postDate": "2027-01-26",
+     "time": "12:00",
+     "notes": ""
+    },
+    {
+     "title": "12 weeks in: then vs now (and thank you for 1,000)",
+     "pillar": "Learning Journey POV",
+     "series": "",
+     "platform": "Instagram Reel",
+     "shootDate": "",
+     "postDate": "2027-01-27",
+     "time": "18:30",
+     "notes": "Milestone post"
+    },
+    {
+     "title": "Inside Catoctin Creek: Virginia Rye, Grain to Glass",
+     "pillar": "Distillery Visits",
+     "series": "Distillery Diaries",
+     "platform": "YouTube",
+     "shootDate": "",
+     "postDate": "2027-01-28",
+     "time": "15:00",
+     "notes": "Distillery Diaries"
+    },
+    {
+     "title": "Trailer: Virginia rye in 60 seconds",
+     "pillar": "Distillery Visits",
+     "series": "",
+     "platform": "Instagram Reel",
+     "shootDate": "",
+     "postDate": "2027-01-28",
+     "time": "19:00",
+     "notes": "Collab post with the distillery"
+    },
+    {
+     "title": "Your pick vs mine: the poll winner, blind",
+     "pillar": "Head-to-Head",
+     "series": "",
+     "platform": "Instagram Reel + Short",
+     "shootDate": "",
+     "postDate": "2027-01-29",
+     "time": "17:00",
+     "notes": "Community"
+    },
+    {
+     "title": "Plan your visit: Catoctin Creek",
+     "pillar": "Distillery Visits",
+     "series": "",
+     "platform": "Instagram Carousel",
+     "shootDate": "",
+     "postDate": "2027-01-30",
+     "time": "10:00",
+     "notes": "Guide carousel"
+    },
+    {
+     "title": "Short: rickhouse moment",
+     "pillar": "Distillery Visits",
+     "series": "",
+     "platform": "YouTube Short",
+     "shootDate": "",
+     "postDate": "2027-01-31",
+     "time": "11:00",
+     "notes": ""
+    }
+   ]
+  }
+ ],
+ "extra": [
+  {
+   "title": "Distillery shoot: Frederick County rye trail",
+   "pillar": "Distillery Visits",
+   "platform": "Shoot",
+   "shootDate": "2026-11-22",
+   "postDate": "",
+   "time": "",
+   "notes": "McClintock, Tenth Ward, Dragon, Springfield Manor (pick 3). Book 2–3 weeks ahead, ask to film, designated driver."
+  },
+  {
+   "title": "Distillery shoot: Catoctin Creek",
+   "pillar": "Distillery Visits",
+   "platform": "Shoot",
+   "shootDate": "2027-01-17",
+   "postDate": "",
+   "time": "",
+   "notes": "Purcellville, VA. Book 2–3 weeks ahead, ask about a Collab post, designated driver."
+  },
+  {
+   "title": "Taketsuru & Rita (Valentine’s)",
+   "pillar": "History & Heritage",
+   "platform": "YouTube",
+   "shootDate": "",
+   "postDate": "2027-02-12",
+   "time": "15:00",
+   "notes": "Tentpole from the six-month roadmap."
+  },
+  {
+   "title": "St. Patrick’s Day: Irish whiskey’s fall and rise",
+   "pillar": "History & Heritage",
+   "platform": "YouTube",
+   "shootDate": "",
+   "postDate": "2027-03-16",
+   "time": "15:00",
+   "notes": "Tentpole from the six-month roadmap."
+  },
+  {
+   "title": "Six months in: Then vs. Now (International Whisk(e)y Day)",
+   "pillar": "Learning Journey POV",
+   "platform": "YouTube",
+   "shootDate": "",
+   "postDate": "2027-03-27",
+   "time": "15:00",
+   "notes": "Tentpole from the six-month roadmap."
+  }
+ ],
+ "template": [
+  {
+   "day": 1,
+   "time": "12:00",
+   "platform": "Instagram Reel",
+   "slot": "Education or History (Whiskey in 60 / Lost Bottles)"
+  },
+  {
+   "day": 2,
+   "time": "12:00",
+   "platform": "YouTube Short",
+   "slot": "Short of last Monday’s Reel + one Trial Reel"
+  },
+  {
+   "day": 3,
+   "time": "18:30",
+   "platform": "Instagram Reel",
+   "slot": "Learning Journey (Study Hall, What I Got Wrong, Behind the Bar)"
+  },
+  {
+   "day": 4,
+   "time": "15:00",
+   "platform": "YouTube",
+   "slot": "The week’s long-form video"
+  },
+  {
+   "day": 4,
+   "time": "19:00",
+   "platform": "Instagram Reel",
+   "slot": "Trailer for the YouTube video"
+  },
+  {
+   "day": 5,
+   "time": "17:00",
+   "platform": "Instagram Reel + Short",
+   "slot": "Tasting verdict or Blind Friday"
+  },
+  {
+   "day": 6,
+   "time": "10:00",
+   "platform": "Instagram Carousel",
+   "slot": "Photo set or explainer graphic"
+  },
+  {
+   "day": 0,
+   "time": "11:00",
+   "platform": "YouTube Short",
+   "slot": "Clip from Thursday’s video + Story poll"
+  }
+ ]
+}
